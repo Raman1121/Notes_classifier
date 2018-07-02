@@ -8,5 +8,8 @@ In this script, I have used a simple Convolutional Neural Network which is pre-t
 The CNN will classify the images into the above two classes. Images classified as "Notes" will be sent to a seperate folder from where they can be deleted in one go without wasting much time.
 
 
-## Contribution
+## *Important*
+The project is still in progress and is not completed yet. I would be posting the Issues in the "Issues" tab. 
+
+
 
